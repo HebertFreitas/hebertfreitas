@@ -1,4 +1,4 @@
-### Hi there, I'm Hebert 👋 
+### Hi, I'm Hebert 👋 
 
 ## A junior front-end developer  <img align="right" src="https://files.fm/thumb_show.php?i=q8gr6u4jj" alt="Programmation" width="150" />
 - 👨🏻‍💻 I currently working as a Junior Front-end Developer in Dart/Flutter
@@ -6,7 +6,6 @@
 - 💡 I love innovation and new technologies
 - 🎯 2023 Goals: Improve myself in Dart and become a Developer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebertfreitas)](https://github.com/hebertfreitas/hebertfreitas)
 
 ### Languages:
 <div style="display: inline_block">
