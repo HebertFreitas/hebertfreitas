@@ -1,6 +1,6 @@
 ### Hi, I'm Hebert 👋 
 
-## A junior front-end developer  <img align="right" src="https://files.fm/thumb_show.php?i=q8gr6u4jj" alt="Programmation" width="150" />
+## A Junior Front-end Developer  <img align="right" src="https://files.fm/thumb_show.php?i=q8gr6u4jj" alt="Programmation" width="150" />
 - 👨🏻‍💻 I currently working as a Junior Front-end Developer in Dart/Flutter
 - 🧑🏻‍🎓 I’m currently learning React
 - 💡 I love innovation and new technologies
