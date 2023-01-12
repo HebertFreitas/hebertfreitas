@@ -6,6 +6,8 @@
 - 💡 I love innovation and new technologies
 - 🎯 2023 Goals: Improve myself in Dart and become a Developer
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebertfreitas)](https://github.com/hebertfreitas/hebertfreitas)
+
 ### Languages:
 <div style="display: inline_block">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
