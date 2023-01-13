@@ -29,7 +29,7 @@
 
 ### Stats 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HebertFreitas&theme=juicyfresh&margin-w=15&margin-h=15&column=7" alt="HebertFreitas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HebertFreitas&theme=dracula&margin-w=15&margin-h=15&column=7" alt="HebertFreitas" /></a> </p>
 
 
 
